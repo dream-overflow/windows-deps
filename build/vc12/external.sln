@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjpeg", "libjpeg\libjpeg.vcxproj", "{5F85FF27-EFE6-4105-9FFA-531E8C5F7307}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libogg", "libogg\libogg.vcxproj", "{A9D338A0-8458-11DF-8E07-BCFDDFD72085}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbis", "libvorbis\libvorbis.vcxproj", "{2497931D-5E75-42B8-8412-71B9C875C700}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbisfile", "libvorbisfile\libvorbisfile.vcxproj", "{CED5A566-6C8E-46DA-A1B8-3B897B11F79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug SSE2 x86|Win32 = Debug SSE2 x86|Win32
+		Release SSE2 x86|Win32 = Release SSE2 x86|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F85FF27-EFE6-4105-9FFA-531E8C5F7307}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{5F85FF27-EFE6-4105-9FFA-531E8C5F7307}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{5F85FF27-EFE6-4105-9FFA-531E8C5F7307}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{5F85FF27-EFE6-4105-9FFA-531E8C5F7307}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{A9D338A0-8458-11DF-8E07-BCFDDFD72085}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{A9D338A0-8458-11DF-8E07-BCFDDFD72085}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{A9D338A0-8458-11DF-8E07-BCFDDFD72085}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{A9D338A0-8458-11DF-8E07-BCFDDFD72085}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{2497931D-5E75-42B8-8412-71B9C875C700}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{2497931D-5E75-42B8-8412-71B9C875C700}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{2497931D-5E75-42B8-8412-71B9C875C700}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{2497931D-5E75-42B8-8412-71B9C875C700}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{CED5A566-6C8E-46DA-A1B8-3B897B11F79D}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{CED5A566-6C8E-46DA-A1B8-3B897B11F79D}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{CED5A566-6C8E-46DA-A1B8-3B897B11F79D}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{CED5A566-6C8E-46DA-A1B8-3B897B11F79D}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{39E6AF97-6BA3-4A72-8C61-BCEBF214EBFD}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{39E6AF97-6BA3-4A72-8C61-BCEBF214EBFD}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{39E6AF97-6BA3-4A72-8C61-BCEBF214EBFD}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{39E6AF97-6BA3-4A72-8C61-BCEBF214EBFD}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{46CF4950-F01A-11DF-98CF-0800200C9A66}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{46CF4950-F01A-11DF-98CF-0800200C9A66}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{46CF4950-F01A-11DF-98CF-0800200C9A66}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{46CF4950-F01A-11DF-98CF-0800200C9A66}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+		{4C98F7F0-F01F-11DF-98CF-0800200C9A66}.Debug SSE2 x86|Win32.ActiveCfg = Debug SSE2 x86|Win32
+		{4C98F7F0-F01F-11DF-98CF-0800200C9A66}.Debug SSE2 x86|Win32.Build.0 = Debug SSE2 x86|Win32
+		{4C98F7F0-F01F-11DF-98CF-0800200C9A66}.Release SSE2 x86|Win32.ActiveCfg = Release SSE2 x86|Win32
+		{4C98F7F0-F01F-11DF-98CF-0800200C9A66}.Release SSE2 x86|Win32.Build.0 = Release SSE2 x86|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
